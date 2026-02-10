@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BabeGPT Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Effective Date: [Insert Date]</p>
+
+<p>BabeGPT respects your privacy. This app does not sell or share personal information.</p>
+
+<h2>Information We Collect</h2>
+<ul>
+<li>Account email (for login)</li>
+<li>Relationship entries created by the user</li>
+</ul>
+
+<h2>How We Use Information</h2>
+<ul>
+<li>To provide app functionality</li>
+<li>To store and display user-created content</li>
+</ul>
+
+<h2>Data Security</h2>
+<p>We use secure cloud infrastructure to store data.</p>
+
+<h2>Contact</h2>
+<p>Email: your@email.com</p>
+
+</body>
+</html>
